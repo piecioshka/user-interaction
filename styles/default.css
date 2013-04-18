@@ -1,0 +1,52 @@
+#link {
+  line-height: 30px;
+  color: #000;
+  text-decoration: none;
+  font-family: Verdana;
+  font-size: 11px;
+}
+
+#link:hover {
+  text-decoration: underline;
+}
+
+#link:active {
+  color: #f00;
+}
+
+#loader {
+  display: none;
+  line-height: 30px;
+  margin: 0 0 0 5px;
+  vertical-align: middle;
+}
+
+.box {
+  position: relative;
+  border: 1px solid #000;
+  width: 100px;
+  height: 50px;
+  float: left;
+  margin: 2px;
+}
+
+.box .text {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 20px;
+  line-height: 20px;
+  padding: 15px 0;
+  text-align: center;
+  background: #000;
+  opacity: 0.4;
+  color: #fff;
+  font-family: monospace;
+}
+
+.box .img {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
