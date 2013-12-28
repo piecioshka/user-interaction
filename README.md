@@ -11,3 +11,7 @@ Example:
 /user-interaction/#400 // big problem with dynamic
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/piecioshka/user-interaction/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
