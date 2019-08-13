@@ -6,6 +6,8 @@
   text-decoration: none;
   font-family: Verdana, sans-serif;
   font-size: 11px;
+  cursor: pointer;
+  border-radius: 5px;
 }
 
 #link:hover {
